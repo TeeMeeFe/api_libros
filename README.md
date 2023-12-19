@@ -1,6 +1,6 @@
 # api_libros
 
-Hecho en JavaScript, Node.js con librerías Express y Joi. Clase N°4. Profesor Rubén. 
+Hecho en JavaScript, Node.js con librerías Express y Joi. Clase N°4. Profesor Rubén. UVE-UTN.
 
 ## Uso y ejecución
 
